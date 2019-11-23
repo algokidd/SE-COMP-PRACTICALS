@@ -1,3 +1,13 @@
+/*
+Ex 3. a.Create a database using array of structures and perform following operationson it :
+	i.Add record 
+	ii.Display Database
+	iii.Search record(binary search)
+      b.For database implemented using array, perform
+	iv.Modify record
+	v.Delete record
+	vi.Sortrecords(Bubble sort).
+*/
 #include<iostream>
 
 using namespace std;
