@@ -1,3 +1,6 @@
+/*
+Ex 2. Accept conventional matrix and convert it into sparse matrix .Implement simple and fast transpose algorithms on sparse matrix.
+*/
 #include<iostream>
 
 using namespace std;
