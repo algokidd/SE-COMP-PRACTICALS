@@ -1,3 +1,7 @@
+/*
+Ex 4. a)Sort the data in ascending order using Selection sort and descending order by using Insertion sort.Display pass by pass output) 
+      b)Search a particular data using linear search.
+*/
 #include<iostream>
 
 using namespace std;
