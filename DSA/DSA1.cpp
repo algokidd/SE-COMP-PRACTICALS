@@ -1,3 +1,11 @@
+/*
+Ex 1. Perform following string operations using pointers:
+	1.Length
+	2.Copy
+	3.Concat
+	4.Compare
+	5.Reverse
+*/
 #include<iostream>
 #include<string.h>
 
