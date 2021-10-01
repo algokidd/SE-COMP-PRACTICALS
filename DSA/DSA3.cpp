@@ -8,7 +8,7 @@ Ex 3. a.Create a database using array of structures and perform following operat
 	v.Delete record
 	vi.Sortrecords(Bubble sort).
 */
-#include<iostream>
+#include<bits/stdc++.h>
 
 using namespace std;
 struct stud {
