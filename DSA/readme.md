@@ -1,3 +1,4 @@
+Use this repo for hacktober fest
 Data Structures and Algorithm
 
 Ex 1. Perform following string operations using pointers:
