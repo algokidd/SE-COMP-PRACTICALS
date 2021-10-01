@@ -6,8 +6,7 @@ Ex 1. Perform following string operations using pointers:
 	4.Compare
 	5.Reverse
 */
-#include<iostream>
-#include<string.h>
+#include<bits/stdc++.h>
 
 using namespace std;
 
