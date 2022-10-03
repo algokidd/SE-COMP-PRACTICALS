@@ -23,5 +23,5 @@ Ex 4. a)Sort the data in ascending order using Selection sort and descending ord
       b)Search a particular data using linear search.
       
       
-      HacktoberFest PR#3
+HacktoberFest PR#3
  
